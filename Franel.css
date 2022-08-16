@@ -1,0 +1,104 @@
+body{
+    background: #dcdcdc;
+    opacity: -10px; 
+}
+.bloc1{
+    display: grid;
+    grid-template-columns:100px 100px 100px 100px 100px;
+    grid-template-rows: 100px 100px 100px 100px 100px  ;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+.bloc1-1{
+    grid-column: 1/1;
+    background: grey;
+}
+.bloc1-2{
+    grid-column: 2/2;
+    background: white;
+}
+.bloc1-3{
+    grid-column: 3/3;
+    background: grey;
+}
+.bloc1-4{
+    grid-column: 4/4;
+    background: white;
+}
+.bloc1-5{
+    grid-column: 5/5;
+    background: grey;
+}
+.bloc1-6{
+    grid-column: 1/2;
+    background: white;
+}
+.bloc1-7{
+    grid-column: 3/2;
+    background: grey;
+}
+.bloc1-8{
+    background: white;
+}
+.bloc1-9{
+    grid-column: 4/4;
+    background: grey;
+}
+.bloc1-10{
+    background: white;
+   
+}
+.bloc1-11{
+    background: grey;
+}
+.bloc1-12{
+      grid-column: 2/2;
+    background: white;
+}
+.bloc1-13{
+    background: grey;
+}
+.bloc1-14{
+    background: white;
+}
+.bloc1-15{
+    background: grey;
+}
+.bloc1-16{
+   background: white;
+}
+.bloc1-17{
+    grid-column: 2/3;
+    background: grey;
+}
+.bloc1-18{
+    grid-column: 3/3;
+    background: white;
+}
+.bloc1-19{
+    grid-column: 4/5;
+    background: grey;
+}
+.bloc1-20{
+    grid-column: 5/5;
+    background: white;
+}
+.bloc1-21{
+    background: grey;
+}
+.bloc1-22{
+    grid-column: 2/3;
+    background: white;
+
+}
+.bloc1-23{
+    grid-column: 4/3;
+    background: grey;
+}
+.bloc1-24{
+    grid-column: 5/4;
+    background: white;
+}
+.bloc1-25{  
+     background: grey;
+}
